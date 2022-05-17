@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static-storybook-matvey/static/css/main.073c9b0a.css",
+    "main.js": "/static-storybook-matvey/static/js/main.00f6ff58.js",
+    "static/js/787.aa83a81e.chunk.js": "/static-storybook-matvey/static/js/787.aa83a81e.chunk.js",
+    "static/media/logo.svg": "/static-storybook-matvey/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/static-storybook-matvey/index.html",
+    "main.073c9b0a.css.map": "/static-storybook-matvey/static/css/main.073c9b0a.css.map",
+    "main.00f6ff58.js.map": "/static-storybook-matvey/static/js/main.00f6ff58.js.map",
+    "787.aa83a81e.chunk.js.map": "/static-storybook-matvey/static/js/787.aa83a81e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.00f6ff58.js"
+  ]
+}
